@@ -29,7 +29,7 @@ if ($result->num_rows > 0) {
         echo "Nom d'utilisateur: Promeo <br>";
         echo "Mot de passe: promeopass <br>";
         echo "IP : <br>";
-        echo "PORT : 3306 <br>"
+        echo "PORT : 3306 <br>";
         echo "<br>";
     }
 } else {
