@@ -18,7 +18,7 @@ services:
     container_name: mysql-db
     environment:
       MYSQL_ROOT_PASSWORD: root_password
-      MYSQL_DATABASE: mydatabase
+      MYSQL_DATABASE: promeostudent
       MYSQL_USER: myuser
       MYSQL_PASSWORD: mypassword
     ports:
